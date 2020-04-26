@@ -1,13 +1,13 @@
 # TF-IDF
 This program processes 10 different document text files. The program processes the documents by tokenization, stopword removal, stemming, and calculating the term frequency–inverse document frequency or TF-IDF.
 
-PROGRAMMING LANGUAGE
+PROGRAMMING LANGUAGE: 
 The source code is written in the programming language Java.
 
-RUNNING THE CODE
+RUNNING THE CODE: 
 Once running the code, you will be asked to input the file paths to appropriate folder or file. The text files are used to output a clear and clean results of the code without having a crowded output.
 
-EXTERNAL LIBRARIES
+EXTERNAL LIBRARIES: 
 Because Java does not have an internal stemming library, I had to use an external library in order to perform the stemming aspect of the assignment. Please refer to the provided jar file.
 
 If you are using Eclipse following the instructions
